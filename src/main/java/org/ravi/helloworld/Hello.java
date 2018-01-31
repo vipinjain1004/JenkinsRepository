@@ -4,7 +4,7 @@ public class Hello {
 	
 	public String displayHelloMessage(){	
 		String message = "hello world";
-		return message.substring(1);
+		return message.substring(2);
 	}
 
 }
